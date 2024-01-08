@@ -8,6 +8,10 @@
         font-size: 175%;
         font-family: kaushan;
 }
+dt{
+  font-weight: bold;
+  font-family: kaushan;
+}
 a{
     text-decoration: none;
     color: black;
