@@ -56,20 +56,24 @@ main{
     top: 0%;
     font-family: 'Courier New', Courier, monospace;
   }
+#grid_1-1-1 h1{
+  font-size: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
 #grid_1-1-1{
 background-color: #8FD6A9;
 text-align: center;
-h1{
-    font-size: 30px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+
 p{
     font-size: 15px;
     margin-left: 120px;
     margin-right: 120px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+}
+#præ{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 
@@ -81,6 +85,12 @@ p{
 }
 #boxes{
     margin: 20px;
+}
+#textbox2 h2{
+  margin-left: 28px;
+  margin-bottom: 20px;
+  font-size: 175%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 #textbox2{
     background-color: #6B7DA1;
@@ -98,6 +108,13 @@ p{
         margin-right: 80px;
        font-family: Arial, Helvetica, sans-serif;
     }
+}
+#textbox3     h2{
+  margin-left: 30px;
+  margin-bottom: 5px;
+  font-size: 1.75em;
+  margin-top: 5px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 #textbox3{
     background-color: #6B7DA1;
