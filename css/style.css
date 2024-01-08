@@ -305,4 +305,7 @@ font-size: 12px;
 width: 100%;
 height: auto;
   }
-  
+  .boxes{
+    width: 200px;
+    height: 182px;
+  }
