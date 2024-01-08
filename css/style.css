@@ -8,6 +8,10 @@
         font-size: 175%;
         font-family: kaushan;
 }
+.fside{
+  width: 80%;
+  height: 80%;
+}
 .omp{
   margin-left: 60px;
   margin-right: 60px;
@@ -29,7 +33,7 @@ main{
     margin-left: 50px;
     margin-right: 50px;
 }
-#forside{
+.forside{
     text-align: center;
 }
 .fp{
@@ -46,33 +50,33 @@ main{
 .af a:hover{
     color: black;
 }
-#tema{
+.tema{
     width: 100%;
     height: 650px;
   }
-  #logo{
+  .logo{
     position: absolute;
     left: 5%;
     top: 0%;
     font-family: 'Courier New', Courier, monospace;
   }
-#grid_1-1-1 h1{
+.grid_1-1-1 h1{
   font-size: 30px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-#grid_1-1-1 p{
+.grid_1-1-1 p{
   font-size: 15px;
   margin-left: 120px;
   margin-right: 120px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-#grid_1-1-1{
+.grid_1-1-1{
 background-color: #8FD6A9;
 text-align: center;
 }
-#præ{
+.præ{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -80,36 +84,36 @@ text-align: center;
 .p1{
     margin-bottom: 50px;
 }
-#grid_1-1-1img{
+.grid_1-1-1img{
     text-align: center;
 }
-#boxes{
+.boxes{
     margin: 20px;
 }
-#textbox2 h2{
+.textbox2 h2{
   margin-left: 28px;
   margin-bottom: 20px;
   font-size: 175%;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-#textbox2    p{
+.textbox2    p{
   margin-left: 30px;
   font-size: 75%;
   margin-right: 80px;
  font-family: Arial, Helvetica, sans-serif;
 }
-#textbox2{
+.textbox2{
     background-color: #6B7DA1;
     color: #FFFFFF;
 }
-#textbox3     h2{
+.textbox3     h2{
   margin-left: 30px;
   margin-bottom: 5px;
   font-size: 1.75em;
   margin-top: 5px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-#textbox3 p{
+.textbox3 p{
     margin-top: 5px;
     margin-left: 30px;
     font-size: 0.75em;
@@ -117,14 +121,14 @@ text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#textbox3{
+.textbox3{
     background-color: #6B7DA1;
     color: #FFFFFF;
 }
 .p2{
 font-size: 12px;
 }
-#midt{
+.midt{
     text-align: center;
 }
 
@@ -146,7 +150,6 @@ font-size: 12px;
   
   .footer_p {
     margin-left: 0%;
-    grid-column: 1 2;
   }
   
   #widthm {
@@ -297,3 +300,9 @@ font-size: 12px;
       margin-left: 0px;
     }
   }
+  /* billeder */
+  .tema{
+width: 100%;
+height: auto;
+  }
+  
