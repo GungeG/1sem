@@ -33,6 +33,10 @@ main{
     margin-left: 50px;
     margin-right: 50px;
 }
+
+dd{
+  margin-bottom: 10px;
+}
 .forside{
     text-align: center;
 }
@@ -41,6 +45,9 @@ main{
     text-align: center;
     font-family: kaushan;
     color: #713333;
+    border: solid;
+    border-color: #713333;
+    border-radius: 50%;
 }
 
 .hmm{
@@ -49,6 +56,10 @@ main{
 }
 .af a:hover{
     color: black;
+}
+.af{
+  margin-left: 5px;
+  margin-right: 5px;
 }
 .tema{
     width: 100%;

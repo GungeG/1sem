@@ -7,11 +7,7 @@
     margin-right: 100px;
     margin-top: 30px;
   }
-  .grid_1-11{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    text-align: center;
-  }
+
   @media screen and (min-width: 800px) {
   .grid_1-1{
     display: grid;
@@ -29,10 +25,18 @@
     display: grid;
     grid-template-columns: 2fr 1fr;
   }
+  .grid_1-11{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+  }
 
 }
   @media screen and (max-width: 800px) {
 .vanish{
   display: none;
+}
+.grid_1-11{
+  text-align: center;
 }
   }
