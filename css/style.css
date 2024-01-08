@@ -61,16 +61,16 @@ main{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+#grid_1-1-1 p{
+  font-size: 15px;
+  margin-left: 120px;
+  margin-right: 120px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 #grid_1-1-1{
 background-color: #8FD6A9;
 text-align: center;
-
-p{
-    font-size: 15px;
-    margin-left: 120px;
-    margin-right: 120px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
 }
 #præ{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -92,22 +92,15 @@ p{
   font-size: 175%;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+#textbox2    p{
+  margin-left: 30px;
+  font-size: 75%;
+  margin-right: 80px;
+ font-family: Arial, Helvetica, sans-serif;
+}
 #textbox2{
     background-color: #6B7DA1;
     color: #FFFFFF;
-
-    h2{
-        margin-left: 28px;
-        margin-bottom: 20px;
-        font-size: 175%;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    }
-    p{
-        margin-left: 30px;
-        font-size: 75%;
-        margin-right: 80px;
-       font-family: Arial, Helvetica, sans-serif;
-    }
 }
 #textbox3     h2{
   margin-left: 30px;
@@ -116,24 +109,17 @@ p{
   margin-top: 5px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+#textbox3 p{
+    margin-top: 5px;
+    margin-left: 30px;
+    font-size: 0.75em;
+    margin-right: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 #textbox3{
     background-color: #6B7DA1;
     color: #FFFFFF;
-
-    h2{
-        margin-left: 30px;
-        margin-bottom: 5px;
-        font-size: 1.75em;
-        margin-top: 5px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    }
-    p{
-        margin-top: 5px;
-        margin-left: 30px;
-        font-size: 0.75em;
-        margin-right: 80px;
-        font-family: Arial, Helvetica, sans-serif;
-    }
 }
 .p2{
 font-size: 12px;
