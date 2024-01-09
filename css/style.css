@@ -71,6 +71,7 @@ dd{
     left: 5%;
     top: 0%;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 110%;
   }
 .grid_1-1-1 h1{
   font-size: 35px;
@@ -143,6 +144,7 @@ font-size: 12px;
 }
 .midt{
     text-align: center;
+    font-size: 110%;
 }
 
 
