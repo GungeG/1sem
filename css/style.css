@@ -5,7 +5,7 @@
 .omh{
         margin-left: 28px;
         margin-bottom: 20px;
-        font-size: 250%;
+        font-size: 175%;
         font-family: kaushan;
 }
 .fside{
@@ -15,7 +15,6 @@
 .omp{
   margin-left: 60px;
   margin-right: 60px;
-  font-size: 110%;
 }
 dt{
   font-weight: bold;
@@ -71,7 +70,6 @@ dd{
     left: 5%;
     top: 0%;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 110%;
   }
 .grid_1-1-1 h1{
   font-size: 35px;
@@ -107,12 +105,12 @@ text-align: center;
 .textbox2 h2{
   margin-left: 28px;
   margin-bottom: 20px;
-  font-size: 250%;
+  font-size: 175%;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .textbox2    p{
   margin-left: 30px;
-  font-size: 110%;
+  font-size: 75%;
   margin-right: 80px;
  font-family: Arial, Helvetica, sans-serif;
 }
@@ -123,14 +121,14 @@ text-align: center;
 .textbox3     h2{
   margin-left: 30px;
   margin-bottom: 5px;
-  font-size: 250%;
+  font-size: 175%;
   margin-top: 5px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .textbox3 p{
     margin-top: 5px;
     margin-left: 30px;
-    font-size: 110%;
+    font-size: 75%;
     margin-right: 80px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -144,7 +142,6 @@ font-size: 12px;
 }
 .midt{
     text-align: center;
-    font-size: 110%;
 }
 
 
@@ -309,7 +306,7 @@ font-size: 12px;
   }
   @media screen and (max-width: 800px) {
     .af{
-        font-size: 0.6em;
+        font-size: 0.4em;
     }
     #left{
       margin-left: 0px;
